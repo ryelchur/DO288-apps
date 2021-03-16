@@ -39,3 +39,5 @@ fi
 
 # Fix source directory permissions
 fix-permissions ./
+
+echo "---> Done ....Enabling s2i support in httpd24 image"
